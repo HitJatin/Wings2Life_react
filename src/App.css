@@ -6,6 +6,9 @@
 body {
   background-color: hsl(0,0%,80%);
 }
+.Footer {
+  padding-top: 150px;
+}
 .itemButton{
   width:300px;
   margin:10px;
@@ -13,7 +16,6 @@ body {
 }
 .itemGroup{
   padding-top: 150px;
-  padding-bottom: 150px;
   text-align: center;
   max-width: 100%;
 }
@@ -22,10 +24,6 @@ body {
   background-color: rgb(219, 101, 55);
   color: white;
   margin:10px;
-}
-#btn_grp{
-  padding-top: 150px;
-  padding-bottom: 150px;
 }
 .App-logo {
   height: 40vmin;
